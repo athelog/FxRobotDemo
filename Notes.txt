@@ -1,0 +1,27 @@
+
+-----------------------------------
+1. SOFTWARE
+-----------------------------------
+1.1 TickStory Lite
+
+Para probar MT4 con tickdata
+Directorio de descarga de su tickdata
+C:\TickDownloader\tickdata
+
+Notas:
+aun no me funciona
+la version gratis solo funciona con versiones viejas de MT4
+
+
+-----------------------------------
+2. Raspberry
+-----------------------------------
+
+2.1 Instalando eagear y wine
+
+2.1.1 Instalando exagear demo
+https://docs.eltechs.com/install-and-configure-exagear-desktop/how-to-install-exagear-desktop-trial
+
+2.1.2 Instalando mt4
+https://eltechs.com/metatrader-4-on-raspberry-pi/
+
